@@ -1,4 +1,4 @@
-# Global Data Science and ML Salary Dashboard
+# 📊 Global Data Science and ML Salary Dashboard
 This is a web app that contains a dashboard that extract insights from salary data in the Data Science and Machine Learning Field.
 
 # Link
