@@ -1,20 +1,28 @@
 # 📊 Global Data Science and ML Salary Dashboard
-This is a web app that contains a dashboard that extract insights from salary data in the Data Science and Machine Learning Field.
 
-# Link
-The fastest way to access the dashboard: https://global-salary-dashboard.onrender.com/
+This is a dashboard web app that extract insights from salary data in the Data Science and Machine Learning Field.
 
-# If you wish to deploy it locally, refer below. 
-## Installation
+# Usage
+
+~~The fastest way to access the dashboard: https://global-salary-dashboard.onrender.com/~~
+
+As of August 2025, the dashboard is only available via local deployment and is no longer accessible online. This is to redirect my focus on newer projects instead.
+
+# Installation
+
+1. Clone the repository
+
+2. Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-## Deploy
+3. Run the app
 ```bash
 python app.py
 ```
-or just run the app.py file in your IDE.
+
+
 
 
 
